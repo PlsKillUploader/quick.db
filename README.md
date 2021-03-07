@@ -1,15 +1,6 @@
-## Quick.db
+## QSql.db
 
-**Documentation:** [quickdb.js.org](https://quickdb.js.org) <br>
-**Support:** [discord.gg/plexidev](https://discord.gg/plexidev) <br>
-**NPM:** [npmjs.com/quick.db](https://www.npmjs.com/package/quick.db)
-
-Quick.db is an open-source package meant to provide an easy way for beginners and people of all levels to access & store data in a low to medium volume environment. All data is stored persistently via [better-sqlite3](https://github.com/JoshuaWise/better-sqlite3) and comes way various other quality-of-life features.
-
-- **Persistent Storage** - Data doesn't disappear through restarts
-- **Works out of the box** - No need to set up a database server, all the data is stored locally in the same project
-- **Beginner Friendly** - Originally created for use in tutorials, the documentation is straightforward and jargon-free
-- & more...
+QSql.dbis a fork of quick.db but uses mysql
 
 ## Example
 
